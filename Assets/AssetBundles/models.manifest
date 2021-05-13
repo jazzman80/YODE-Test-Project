@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 2891436986
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7571553841c840cc7d23a27dce7e477f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8443b9a6d94280b78ae634c27d0356d4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a6610d2e704f1648819acc8d7460285, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/VoxelAnimals/Assets/Prefabs/Chicken Preview.prefab
+- Assets/VoxelAnimals/Assets/Prefabs/Dog.prefab
+- Assets/VoxelAnimals/Assets/Prefabs/Cat Preview.prefab
+- Assets/VoxelAnimals/Assets/Prefabs/Cat.prefab
+- Assets/VoxelAnimals/Assets/Prefabs/Lion.prefab
+- Assets/VoxelAnimals/Assets/Prefabs/Chicken.prefab
+- Assets/VoxelAnimals/Assets/Prefabs/Penguin.prefab
+- Assets/VoxelAnimals/Assets/Prefabs/Penguin Preview.prefab
+- Assets/VoxelAnimals/Assets/Prefabs/Lion Preview.prefab
+- Assets/VoxelAnimals/Assets/Prefabs/Dog Preview.prefab
+Dependencies: []

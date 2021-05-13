@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{4af595aa-bd76-44d1-ad8b-f47faffd03f2}">
+		<property name="assetPath">
+			<value>Chicken.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>5.9036734693877548</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f51fba37-1bb3-42d8-94c3-f45f259d1b0b}</destination>
+		</relationship>
+	</object>
+</objects>
